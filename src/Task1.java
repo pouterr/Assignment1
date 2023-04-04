@@ -4,7 +4,7 @@ public class Task1 {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
-        //Lenght of array
+        //Length of array
         System.out.println("How many elements?");
         int n = sc.nextInt();
         int[] arr = new int[n];
