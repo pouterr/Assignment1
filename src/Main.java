@@ -103,7 +103,7 @@ public class Main {
                     System.out.print("Input two numbers to find GCD of them: ");
                     int a = sc.nextInt();
                     int b = sc.nextInt();
-                    System.out.println("GCD(" + a + "," + b + ") = " + Task10.gcd(a,b));//output
+                    System.out.println("GCD(" + a + "," + b + ") = " + Task10.gcd(a,b));
                     break;
                 }
 
