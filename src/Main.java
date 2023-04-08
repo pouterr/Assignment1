@@ -4,7 +4,7 @@ public class Main {
     public static int[] getArrayFromUser() {
         Scanner scanner = new Scanner(System.in);
 
-        // Ask the user to enter length of the array
+        // Ask the user to enter length of the arrayy
         System.out.print("Enter the length of the array: ");
         int length = scanner.nextInt();
 
