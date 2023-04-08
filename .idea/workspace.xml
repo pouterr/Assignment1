@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b878a4a6-a056-4913-922f-523d345470be" name="Changes" comment="Created Main.java class to call functions of solving tasks from there" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Task10.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NmbkV4lnXf7NViFJUQfflwH3oA" />
+  <component name="ProjectLevelVcsManager">
+    <OptionsSetting value="false" id="Update" />
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/admin/Documents/Assignment1"
+  }
+}]]></component>
+  <component name="Push.Settings">
+    <force-push-targets>
+      <force-push-target remote-path="origin" branch="main" />
+    </force-push-targets>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b878a4a6-a056-4913-922f-523d345470be" name="Changes" comment="" />
+      <created>1680272350321</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680272350321</updated>
+    </task>
+    <task id="LOCAL-00001" summary="implementation of function to find minimum from array">
+      <created>1680277146151</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680277146151</updated>
+    </task>
+    <task id="LOCAL-00002" summary="implementation of function to find average from array">
+      <created>1680281625283</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680281625283</updated>
+    </task>
+    <task id="LOCAL-00003" summary="implementation of function to find average from array">
+      <created>1680625017109</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680625017109</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Adding comments to code">
+      <created>1680625138505</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680625138505</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Adding comments to code">
+      <created>1680625235786</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1680625235786</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Implementation of function to check if number is prime">
+      <created>1680627145694</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1680627145694</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Implementation of function to check if number is prime">
+      <created>1680628147841</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1680628147841</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Implementation of function to find factorial">
+      <created>1680628761489</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1680628761489</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Implementation of function to find n-th element of Fibonacci sequence">
+      <created>1680629077315</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1680629077315</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Implementation of function to find a in n-th degree">
+      <created>1680629437369</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1680629437369</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Implementation of function to reverse array">
+      <created>1680630704258</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1680630704258</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Implementation of function to find if string is only digit or not">
+      <created>1680632086139</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1680632086139</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Implementation of function to find binomial coefficent">
+      <created>1680632571058</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1680632571058</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Created Main.java class to call functions of solving tasks from there">
+      <created>1680952581056</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1680952581056</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Created Main.java class to call functions of solving tasks from there">
+      <created>1680952988088</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1680952988088</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Created Main.java class to call functions of solving tasks from there">
+      <created>1680958257576</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1680958257576</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="implementation of function to find minimum from array" />
+    <MESSAGE value="implementation of function to find average from array" />
+    <MESSAGE value="Adding comments to code" />
+    <MESSAGE value="Implementation of function to check if number is prime" />
+    <MESSAGE value="Implementation of function to find factorial" />
+    <MESSAGE value="Implementation of function to find n-th element of Fibonacci sequence" />
+    <MESSAGE value="Implementation of function to find a in n-th degree" />
+    <MESSAGE value="Implementation of function to reverse array" />
+    <MESSAGE value="Implementation of function to find if string is only digit or not" />
+    <MESSAGE value="Implementation of function to find binomial coefficent" />
+    <MESSAGE value="Created Main.java class to call functions of solving tasks from there" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created Main.java class to call functions of solving tasks from there" />
+  </component>
+</project>

@@ -1,0 +1,17 @@
+[33mcommit f4fbbb3b04ec987c8eb46604b3fd396d97fb5e47[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: pouterr <poutergutorov@gmail.com>
+Date:   Fri Mar 31 22:53:43 2023 +0600
+
+    implementation of function to find average from array
+
+[33mcommit 6d693223e4abfdf6b667f38cbd75524454b52617[m
+Author: pouterr <poutergutorov@gmail.com>
+Date:   Fri Mar 31 21:39:06 2023 +0600
+
+    implementation of function to find minimum from array
+
+[33mcommit 64a5802dfccedcfcfa220a3035f7c6b87c3fa3dc[m
+Author: pouterr <poutergutorov@gmail.com>
+Date:   Fri Mar 31 21:26:48 2023 +0600
+
+    first commit
